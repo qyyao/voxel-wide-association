@@ -11,4 +11,4 @@ void print_voxel_ij(const std::string& nii_filename, const std::array<int, 3>& v
 void print_num_subjects(const std::string& nii_filename);
 void print_subject_dimensions(const std::string& nii_filename, int subject_index);
 
-#endif  // READ_NIFTI_HPP
+#endif 
